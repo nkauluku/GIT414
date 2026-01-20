@@ -1,0 +1,26 @@
+/* CSS Created By: Nainoa Kaulukukui */
+/* GLOBAL */
+body{
+    background-color: red;
+}
+
+/* MEDIUM */
+@media screen and (min-width: 768px) {
+    body{
+        background-color: yellow;
+    }
+}
+
+/* LARGE */
+@media screen and (min-width: 1024px) {
+    body{
+        background-color: green;
+    }
+}
+
+/* XL */
+@media screen and (min-width: 1280px) {
+    body{
+        background-color: blue;
+    }
+}
